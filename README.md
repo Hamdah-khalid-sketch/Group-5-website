@@ -1,37 +1,42 @@
-# AICT Lab Final Project
+Project Showcase: Tech Workshop Website
+I’m excited to share the website we built to manage and promote a Tech Workshop! Our platform provides seamless registration, event details, and resource access — all designed to enhance user engagement.
 
-## Description
-This project contains my AICT lab final project website built with HTML, CSS.
+🔗 🌐 [Live Site]: https://hamdah-khalid-sketch.github.io/Group-5-website/
 
----
-
-## Live Website
-Check out the live website here:  
-🌐 [Live Site]: https://hamdah-khalid-sketch.github.io/Group-5-website/
-
----
-
-## GitHub Repository
-All the project files are available in the GitHub repo:  
 📂 [Repository Link]: https://github.com/Hamdah-khalid-sketch/Group-5-website.git
 
----
-
-## Additional Files
+Additional Files
 Here are the supporting files for the project:
 
-- 📊 [Presentation]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
-- 📝 [Word File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx 
-- 📈 [Excel File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
+📊 [Presentation]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
+📝 [Word File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx
+📈 [Excel File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
 
----
+👥 Team Collaboration:
+Huge thanks to my amazing teammates —
 
-## How to Use
-1. Clone the repo or download the files.  
-2. Open `index.html` in your browser to view the website.  
-3. Check the additional files for detailed project info, documentation, and data.
+Emaan shahzad
 
----
+Saffana riaz
 
-## Contact
-For questions or suggestions, contact Hamdah khalid at khalidhamdah1@gmail.com.
+Humna qaiser
+
+Abuzar bhatti
+
+We coordinated through weekly stand-ups, agile workflows, and collaborative tools like GitHub and Figma to ensure a smooth and efficient development process.
+
+🙏 Special Thanks & Credits:
+@Alzaraan Software House for the collaboration opportunity.
+A big thank you to our Course Instructor @Ramsha Khalid, our TA @[TA’s Name], Chairman @Muhammad Usman Ghani Khan, and the @Department of Computer Science for their invaluable guidance and support.
+
+💡 AICT Lab Experience:
+Working in the AICT Lab provided us with access to advanced tools and a collaborative environment that were crucial for this project. Here, I honed my skills in full-stack development, responsive design, version control, and team-based agile development.
+
+🏷️ Tags:
+@Alzaraan Software House @Ramsha Khalid @[TA’s LinkedIn] @Muhammad Usman Ghani Khan @Department of Computer Science
+
+🔖 Hashtags:
+#TechWorkshop #WebDevelopment #ProjectShowcase #TeamCollaboration #ComputerScience
+
+Contact
+For questions or suggestions, contact Hamdah khalid at khalidhamdah1@gmail.com

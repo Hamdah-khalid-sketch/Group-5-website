@@ -1,42 +1,87 @@
-Project Showcase: Tech Workshop Website
-I’m excited to share the website we built to manage and promote a Tech Workshop! Our platform provides seamless registration, event details, and resource access — all designed to enhance user engagement.
+🚀 Project Showcase: Tech Workshop Website
 
-🔗 🌐 [Live Site]: https://hamdah-khalid-sketch.github.io/Group-5-website/
+I’m excited to share the website we built to manage and promote a Tech Workshop!
+Our platform provides seamless registration, detailed event information, and easy resource access — all designed to enhance user engagement and usability.
 
-📂 [Repository Link]: https://github.com/Hamdah-khalid-sketch/Group-5-website.git
+🔗 Project Links
 
-Additional Files
-Here are the supporting files for the project:
+🌐 Live Site:
+https://hamdah-khalid-sketch.github.io/Group-5-website/
 
-📊 [Presentation]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
-📝 [Word File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx
-📈 [Excel File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
+📂 GitHub Repository:
+https://github.com/Hamdah-khalid-sketch/Group-5-website.git
 
-👥 Team Collaboration:
-Huge thanks to my amazing teammates —
+📁 Additional Project Files
 
-Emaan shahzad
+Supporting documents included in the repository:
 
-Saffana riaz
+📊 Presentation:
+https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
 
-Humna qaiser
+📝 Word File:
+https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx
 
-Abuzar bhatti
+📈 Excel File:
+https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
 
-We coordinated through weekly stand-ups, agile workflows, and collaborative tools like GitHub and Figma to ensure a smooth and efficient development process.
+👥 Team Collaboration
 
-🙏 Special Thanks & Credits:
-@Alzaraan Software House for the collaboration opportunity.
-A big thank you to our Course Instructor @Ramsha Khalid, our TA @[TA’s Name], Chairman @Muhammad Usman Ghani Khan, and the @Department of Computer Science for their invaluable guidance and support.
+Huge thanks to my amazing teammates:
 
-💡 AICT Lab Experience:
-Working in the AICT Lab provided us with access to advanced tools and a collaborative environment that were crucial for this project. Here, I honed my skills in full-stack development, responsive design, version control, and team-based agile development.
+Emaan Shahzad
 
-🏷️ Tags:
-@Alzaraan Software House @Ramsha Khalid @[TA’s LinkedIn] @Muhammad Usman Ghani Khan @Department of Computer Science
+Saffana Riaz
 
-🔖 Hashtags:
+Humna Qaiser
+
+Abuzar Bhatti
+
+We collaborated through weekly stand-ups, agile workflows, and tools like GitHub and Figma to ensure a smooth, efficient, and well-coordinated development process.
+
+🙏 Special Thanks & Credits
+
+Special thanks to @Alzaraan Software House for the collaboration opportunity.
+
+Heartfelt gratitude to:
+
+Course Instructor: @Ramsha Khalid
+
+Teaching Assistant: @[TA’s Name]
+
+Chairman: @Muhammad Usman Ghani Khan
+
+@Department of Computer Science
+
+for their invaluable guidance, mentorship, and support.
+
+💡 AICT Lab Experience
+
+Working in the AICT Lab provided access to advanced tools and a highly collaborative environment.
+Through this experience, I strengthened my skills in:
+
+Full-stack web development
+
+Responsive UI design
+
+Version control (Git & GitHub)
+
+Agile, team-based development
+
+🏷️ Tags
+
+@Alzaraan Software House
+@Ramsha Khalid
+@[TA’s LinkedIn]
+@Muhammad Usman Ghani Khan
+@Department of Computer Science
+
+🔖 Hashtags
+
 #TechWorkshop #WebDevelopment #ProjectShowcase #TeamCollaboration #ComputerScience
 
-Contact
-For questions or suggestions, contact Hamdah khalid at khalidhamdah1@gmail.com
+📬 Contact
+
+For questions or suggestions, feel free to contact: Hamdah Khalid — 📧 khalidhamdah1@gmail.com
+
+
+

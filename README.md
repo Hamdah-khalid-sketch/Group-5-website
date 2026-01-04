@@ -20,9 +20,9 @@ All the project files are available in the GitHub repo:
 ## Additional Files
 Here are the supporting files for the project:
 
-- 📊 [Presentation](https://github.com/yourusername/your-repo-name/blob/main/your-presentation.pptx)  
-- 📝 [Word File](https://github.com/yourusername/your-repo-name/blob/main/your-word-file.docx)  
-- 📈 [Excel File](https://github.com/yourusername/your-repo-name/blob/main/your-excel-file.xlsx)
+- 📊 [Presentation]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
+- 📝 [Word File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx 
+- 📈 [Excel File]https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
 
 ---
 

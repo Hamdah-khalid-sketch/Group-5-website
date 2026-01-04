@@ -1,73 +1,72 @@
-🚀 Project Showcase: Tech Workshop Website
 
-I’m excited to share the website we built to manage and promote a Tech Workshop!
-Our platform provides seamless registration, detailed event information, and easy resource access — all designed to enhance user engagement and usability.
+## **🚀 Project Showcase: Tech Workshop Website**
 
-🔗 Project Links
+I’m excited to share the website we built to **manage and promote a Tech Workshop**!
+Our platform provides **seamless registration**, **detailed event information**, and **easy resource access** — all designed to enhance **user engagement** and **usability**.
 
-🌐 Live Site:
-https://hamdah-khalid-sketch.github.io/Group-5-website/
 
-📂 GitHub Repository:
-https://github.com/Hamdah-khalid-sketch/Group-5-website.git
+### **🔗 Project Links**
 
-📁 Additional Project Files
+🌐 **Live Site:**
+[https://hamdah-khalid-sketch.github.io/Group-5-website/](https://hamdah-khalid-sketch.github.io/Group-5-website/)
+
+📂 **GitHub Repository:**
+[https://github.com/Hamdah-khalid-sketch/Group-5-website.git](https://github.com/Hamdah-khalid-sketch/Group-5-website.git)
+
+
+
+## **📁 Additional Project Files**
 
 Supporting documents included in the repository:
 
-📊 Presentation:
-https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx
+📊 **Presentation:**
+[https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx](https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Tech%20Workshops%20Platform%20final.pptx)
 
-📝 Word File:
-https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx
+📝 **Word File:**
+[https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx](https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Word%20work.docx)
 
-📈 Excel File:
-https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx
+📈 **Excel File:**
+[https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx](https://github.com/Hamdah-khalid-sketch/Group-5-website/blob/main/Excel%20work.xlsx)
 
-👥 Team Collaboration
 
-Huge thanks to my amazing teammates:
+## **👥 Team Collaboration**
 
-Emaan Shahzad
+Huge thanks to my **amazing teammates**:
 
-Saffana Riaz
+* **Emaan Shahzad**
+* **Saffana Riaz**
+* **Humna Qaiser**
+* **Abuzar Bhatti**
 
-Humna Qaiser
+We collaborated through **weekly stand-ups**, **agile workflows**, and tools like **GitHub** and **Figma** to ensure a **smooth, efficient, and well-coordinated development process**.
 
-Abuzar Bhatti
 
-We collaborated through weekly stand-ups, agile workflows, and tools like GitHub and Figma to ensure a smooth, efficient, and well-coordinated development process.
+## **🙏 Special Thanks & Credits**
 
-🙏 Special Thanks & Credits
-
-Special thanks to @Alzaraan Software House for the collaboration opportunity.
+Special thanks to **@Alzaraan Software House** for the collaboration opportunity.
 
 Heartfelt gratitude to:
 
-Course Instructor: @Ramsha Khalid
+* **Course Instructor:** @Ramsha Khalid
+* **Teaching Assistant:** @[TA’s Name]
+* **Chairman:** @Muhammad Usman Ghani Khan
+* **@Department of Computer Science**
 
-Teaching Assistant: @[TA’s Name]
+for their **invaluable guidance, mentorship, and support**.
 
-Chairman: @Muhammad Usman Ghani Khan
 
-@Department of Computer Science
+## **💡 AICT Lab Experience**
 
-for their invaluable guidance, mentorship, and support.
-
-💡 AICT Lab Experience
-
-Working in the AICT Lab provided access to advanced tools and a highly collaborative environment.
+Working in the **AICT Lab** provided access to **advanced tools** and a **highly collaborative environment**.
 Through this experience, I strengthened my skills in:
 
-Full-stack web development
+* **Full-stack web development**
+* **Responsive UI design**
+* **Version control (Git & GitHub)**
+* **Agile, team-based development**
 
-Responsive UI design
 
-Version control (Git & GitHub)
-
-Agile, team-based development
-
-🏷️ Tags
+## **🏷️ Tags**
 
 @Alzaraan Software House
 @Ramsha Khalid
@@ -75,13 +74,19 @@ Agile, team-based development
 @Muhammad Usman Ghani Khan
 @Department of Computer Science
 
-🔖 Hashtags
 
-#TechWorkshop #WebDevelopment #ProjectShowcase #TeamCollaboration #ComputerScience
+## **🔖 Hashtags**
 
-📬 Contact
+**#TechWorkshop #WebDevelopment #ProjectShowcase #TeamCollaboration #ComputerScience**
 
-For questions or suggestions, feel free to contact: Hamdah Khalid — 📧 khalidhamdah1@gmail.com
+
+## **📬 Contact**
+
+For questions or suggestions, feel free to contact:
+**Hamdah Khalid** — 📧 *[khalidhamdah1@gmail.com](mailto:khalidhamdah1@gmail.com)*
+
+
+
 
 
 
